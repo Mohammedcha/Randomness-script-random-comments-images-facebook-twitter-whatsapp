@@ -39,12 +39,12 @@
     <meta name="distribution" content="web">
     <meta http-equiv="expires" content="0" />
 	<!-- Facebook & Twitter Cards -->
+		<meta name="twitter:card"        		      	content="summary_large_image" />
+		<meta name="twitter:site"          		     	content="@Reskinning" />
+		<meta name="twitter:creator"        		    	content="@Reskinning" />
 		<meta property="og:title"				content="<?php echo $Randomness_Reskinning__fa_tw_title ; ?>" />
-		<meta property="og:description"			content="<?php echo $Randomness_Reskinning__fa_tw_description ; ?>" />
+		<meta property="og:description"				content="<?php echo $Randomness_Reskinning__fa_tw_description ; ?>" />
 		<meta property="og:image"				content="<?php echo $path . $img .'?'. $six_number ?>" />
-		<meta name="twitter:card"               content="summary_large_image" />
-		<meta name="twitter:site"               content="@Reskinning" />
-		<meta name="twitter:creator"            content="@Reskinning" />
 	<!-- End Facebook & Twitter Cards -->
 	<link rel='stylesheet' href="./assets/css/css.css" type='text/css'>
 	<link rel="stylesheet" href="./assets/css/style.css"> 
